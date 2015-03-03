@@ -1,0 +1,43 @@
+
+
+h1{
+  font-size: 20px;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  font-style: normal;
+  color: #E82C0C;
+}
+
+h4{
+  color: #E82C0C;
+  font-size: 18px;
+}
+
+
+body{
+    padding: 40px;
+    border: 6px solid #665544;
+    background-color: #c8c8c8;
+    font-family: Georgia, Times, serif;
+    text-align: justify;
+
+}
+
+.ludaires-advice{
+    background: #fff;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+ a:visited {
+  color: black;
+}
+ a:active {
+  color: darkcyan;
+ }
+a:hover{
+  color: blue;
+  text-decoration: underline;
+}
